@@ -26,8 +26,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" />
       </list>
     </option>
   </component>
@@ -82,7 +82,7 @@
       <workItem from="1567781645900" duration="2453000" />
       <workItem from="1568055815436" duration="3708000" />
       <workItem from="1568231522609" duration="1418000" />
-      <workItem from="1568393769776" duration="6585000" />
+      <workItem from="1568393769776" duration="7278000" />
     </task>
     <servers />
   </component>

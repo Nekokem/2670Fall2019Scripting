@@ -16,7 +16,6 @@ public class IfStatments : MonoBehaviour
             LevelTest();
 
         brainFunctionLevel += Time.deltaTime * 15f;
-
     }
 
     void LevelTest()
