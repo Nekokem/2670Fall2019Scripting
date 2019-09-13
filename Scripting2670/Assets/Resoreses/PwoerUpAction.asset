@@ -9,8 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: acec2ea8c1e61d44c86b83a792e3a0aa, type: 3}
-  m_Name: Health
+  m_Script: {fileID: 11500000, guid: 98993ca45ea4aa245897ebcc9d00d102, type: 3}
+  m_Name: PwoerUpAction
   m_EditorClassIdentifier: 
-  value: 1.1
-  maxValue: 1
