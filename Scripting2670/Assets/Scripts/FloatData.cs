@@ -42,4 +42,9 @@ public class FloatData : ScriptableObject
 
       }
 
+   public void changeValue(float amount)
+   {
+      value = amount;
+   }
+
 }
