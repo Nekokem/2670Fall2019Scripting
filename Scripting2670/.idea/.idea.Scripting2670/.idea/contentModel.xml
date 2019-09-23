@@ -8,11 +8,13 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
+          <e p="CharacterMover.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
         </e>

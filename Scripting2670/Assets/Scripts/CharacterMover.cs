@@ -9,6 +9,7 @@ public class CharacterMover : MonoBehaviour
     public float moveSpeed = 10f, jumpSpeed = 30f, gravity = 3f;
     private CharacterController Controller;
     private Vector3 position;
+    public IntData jumpDataObj;
     void Start()
     {
         Controller = GetComponent<CharacterController>();
@@ -20,12 +21,13 @@ public class CharacterMover : MonoBehaviour
         position.z = moveSpeed * Input.GetAxis("Vertical");
         position.y -= gravity;
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && jumpDataObj.value < jumpDataObj.maxValue)
         {
             position.y = jumpSpeed;
+            jumpDataObj.value++;
         }
-        
-        if (Controller.isGrounded)
+
+        else if (Controller.isGrounded)
         {
             position.y = 0;
         }
