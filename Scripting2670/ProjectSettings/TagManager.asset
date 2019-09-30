@@ -14,23 +14,23 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - PowerUp
-  - Bullet
   - Player
-  - extra
+  - 
+  - 
+  - 
+  - 
+  - Enemy
   - 
   - 
   - 
   - 
   - 
+  - Ground
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - PowerUp
   - 
   - 
   - 

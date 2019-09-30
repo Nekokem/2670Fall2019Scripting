@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIwithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIwithNavMesh.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +98,8 @@
       <workItem from="1568834009601" duration="4163000" />
       <workItem from="1569012129995" duration="170000" />
       <workItem from="1569268159942" duration="3570000" />
-      <workItem from="1569274379534" duration="408000" />
+      <workItem from="1569274379534" duration="687000" />
+      <workItem from="1569872126227" duration="2087000" />
     </task>
     <servers />
   </component>
