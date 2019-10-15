@@ -19,6 +19,9 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="Collection.cs" t="Include" />
           <e p="CoRoutines.cs" t="Include" />
+          <e p="CreateSoData.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
+          <e p="DraggableObject.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
@@ -27,6 +30,7 @@
           <e p="IntData.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="UpdateEvent.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

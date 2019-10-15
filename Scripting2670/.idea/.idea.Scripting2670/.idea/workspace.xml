@@ -13,6 +13,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Acrions Practice/EndGameClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateSoData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Acrions Practice/PlayerClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +25,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Acrions Practice/EnemyClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Acrions Practice/PowerUpClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DraggableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
@@ -41,7 +45,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerBooster.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIwithNavMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CodeRoutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
@@ -54,6 +57,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Acrions Practice/PowerUpClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Acrions Practice/EndGameClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UpdateEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateSoData.cs" />
       </list>
     </option>
   </component>
@@ -118,6 +125,7 @@
       <workItem from="1570043177900" duration="5236000" />
       <workItem from="1570479098310" duration="1314000" />
       <workItem from="1570648751809" duration="3907000" />
+      <workItem from="1571081525175" duration="3287000" />
     </task>
     <servers />
   </component>
