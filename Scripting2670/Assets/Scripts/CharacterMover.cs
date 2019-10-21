@@ -7,9 +7,8 @@ public class CharacterMover : ScriptableObject
     public float moveSpeed = 10f, jumpSpeed = 30f, gravity = 3f;
     private Vector3 position;
     public IntData jumpDataObj;
-   
-
-    public void MoveCharacter(CharacterController controllor)
+    
+    public void MoveCharacter(CharacterController controller)
     {
         position.x = moveSpeed * Input.GetAxis("Horizontal");
         position.z = moveSpeed * Input.GetAxis("Vertical");

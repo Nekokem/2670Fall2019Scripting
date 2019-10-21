@@ -17,20 +17,31 @@
           <e p="ActionCalls.cs" t="Include" />
           <e p="AIwithNavMesh.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="CiniMachineController.cs" t="Include" />
           <e p="Collection.cs" t="Include" />
           <e p="CoRoutines.cs" t="Include" />
           <e p="CreateSoData.cs" t="Include" />
           <e p="Debugger.cs" t="Include" />
           <e p="DraggableObject.cs" t="Include" />
+          <e p="EventListening.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
+          <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="DoDamage.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PowerUp.cs" t="Include" />
+          </e>
+          <e p="Interfaces.cs" t="Include" />
+          <e p="MonoEventBehaviors.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
-          <e p="UpdateEvent.cs" t="Include" />
+          <e p="TriggerEventListener.cs" t="Include" />
+          <e p="VectorThreeData.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
