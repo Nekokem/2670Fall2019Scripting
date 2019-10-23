@@ -20,8 +20,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventListener.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Acrions Practice/PowerUpClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveLRArrows.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveHVArrows.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIwithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CiniMachineController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventListening.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -78,9 +81,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/DoDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventListener.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EventListening.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveLRArrows.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveHVArrows.cs" />
       </list>
     </option>
   </component>
@@ -148,6 +155,7 @@
       <workItem from="1571081525175" duration="3287000" />
       <workItem from="1571253220365" duration="4879000" />
       <workItem from="1571686450622" duration="4324000" />
+      <workItem from="1571859134919" duration="3683000" />
     </task>
     <servers />
   </component>

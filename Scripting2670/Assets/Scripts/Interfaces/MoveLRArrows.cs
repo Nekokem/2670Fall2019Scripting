@@ -1,0 +1,14 @@
+﻿using UnityEngine;
+
+[CreateAssetMenu]
+public class MoveLRArrows : ScriptableObject, IMove
+{
+    public Vector3 location { get; set; }
+    public Vector3 newLocation;
+
+    public void Move(CharacterController controller)
+    {
+        newLocation.x = Input.GetAxis("Horizontal");
+        controller.Move(newLocation);
+    }
+}

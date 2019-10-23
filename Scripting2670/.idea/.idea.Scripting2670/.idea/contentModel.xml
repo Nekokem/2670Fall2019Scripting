@@ -33,6 +33,9 @@
           <e p="IntData.cs" t="Include" />
           <e p="Interfaces" t="Include">
             <e p="DoDamage.cs" t="Include" />
+            <e p="MoveController.cs" t="Include" />
+            <e p="MoveHVArrows.cs" t="Include" />
+            <e p="MoveLRArrows.cs" t="Include" />
             <e p="PlayerHealth.cs" t="Include" />
             <e p="PowerUp.cs" t="Include" />
           </e>
